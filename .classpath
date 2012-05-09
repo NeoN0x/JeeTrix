@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Data/Work/Supinfo Docs/B2/Sun Technologies - Java Standard Edition/Code/JeeTrix/lib/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="JeeTrix/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Data/Work/Supinfo Docs/B2/Sun Technologies - Java Standard Edition/Code/JeeTrix/lib/slick.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/Data/Work/Supinfo Docs/B2/Sun Technologies - Java Standard Edition/Code/JeeTrix/lib/javadocslick/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Data/Work/Supinfo Docs/B2/Sun Technologies - Java Standard Edition/Code/JeeTrix/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="D:/Data/Work/Supinfo Docs/B2/Sun Technologies - Java Standard Edition/Code/JeeTrix/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
