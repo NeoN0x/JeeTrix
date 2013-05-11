@@ -1,4 +1,4 @@
-(For information about this project on GitHub, see https://github.com/ShadeMaster/JeeTrix/)
+(For information about this project on GitHub, see https://github.com/NeoN0x/JeeTrix/)
 
 JeeTrix
 =======
